@@ -1,7 +1,7 @@
 # test_app.py
 
 import unittest
-from app import add, sub, mul
+from appy import add, sub, mul
 
 class TestMathFunctions(unittest.TestCase):
 
