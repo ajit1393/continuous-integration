@@ -12,6 +12,5 @@ def mul(a, b):
 
 if __name__ == "__main__":
     result1 = add(3, 5)
-    result2 = sub(3, 1)
-    
+    result2 = sub(3, 1) 
     print(result1, result2)
